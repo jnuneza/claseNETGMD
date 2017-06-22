@@ -1,0 +1,23 @@
+﻿Git Bash
+(revisar credenciales en: Control Panel\All Control Panel Items\Credential Manager)
+
+-direccionarnos a la carpeta del projecto
+->git init   (crear una rama)
+->git status (ver estado del repositorio)
+->git add -A (es para agregar todos los archivos que han tenido cambios)
+->git commit -m "Mi Primer Commit"  ()
+->git push origin master
+------
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/jnuneza/claseNETGMD.git
+git push -u origin master
+
+-----
+
+
+
+URL REPOSITORIO:
+https://github.com/jnuneza/claseNETGMD
+
+USUARIO: jnuneza@gmd.com.pe
