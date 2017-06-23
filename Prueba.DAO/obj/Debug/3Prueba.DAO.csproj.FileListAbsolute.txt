@@ -1,0 +1,5 @@
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\Prueba.DAO.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\Prueba.DAO.pdb
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\obj\Debug\3Prueba.DAO.csprojResolveAssemblyReference.cache
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\obj\Debug\Prueba.DAO.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\obj\Debug\Prueba.DAO.pdb
