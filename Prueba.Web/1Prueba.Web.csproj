@@ -196,6 +196,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\ClaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
@@ -265,6 +266,7 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Clase\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -281,6 +283,10 @@
     <ProjectReference Include="..\Prueba.BL\2Prueba.BL.csproj">
       <Project>{f68c2ace-3f7f-4d4c-bbca-7c9f2651f016}</Project>
       <Name>2Prueba.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Prueba.Model\Prueba.Model.csproj">
+      <Project>{5d8b23f8-852a-4b84-ba15-109c9b06111b}</Project>
+      <Name>Prueba.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

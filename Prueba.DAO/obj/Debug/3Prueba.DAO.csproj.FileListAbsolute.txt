@@ -1,5 +1,12 @@
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\Prueba.DAO.dll.config
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\Prueba.DAO.dll
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\Prueba.DAO.pdb
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\EntityFramework.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\Prueba.Model.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\Prueba.Model.pdb
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\EntityFramework.xml
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\obj\Debug\3Prueba.DAO.csprojResolveAssemblyReference.cache
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\obj\Debug\Prueba.DAO.dll
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.DAO\obj\Debug\Prueba.DAO.pdb

@@ -1,0 +1,5 @@
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.Model\bin\Debug\Prueba.Model.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.Model\bin\Debug\Prueba.Model.pdb
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.Model\obj\Debug\Prueba.Model.csprojResolveAssemblyReference.cache
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.Model\obj\Debug\Prueba.Model.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.Model\obj\Debug\Prueba.Model.pdb

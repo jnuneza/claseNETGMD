@@ -1,7 +1,11 @@
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\bin\Debug\Prueba.BL.dll
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\bin\Debug\Prueba.BL.pdb
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\bin\Debug\Prueba.DAO.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\bin\Debug\EntityFramework.dll
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\bin\Debug\Prueba.Model.dll
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\bin\Debug\Prueba.DAO.pdb
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\bin\Debug\EntityFramework.xml
+C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\bin\Debug\Prueba.Model.pdb
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\obj\Debug\2Prueba.BL.csprojResolveAssemblyReference.cache
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\obj\Debug\Prueba.BL.dll
 C:\Users\GMD\documents\visual studio 2015\Projects\ClaseGMD\Prueba.BL\obj\Debug\Prueba.BL.pdb
